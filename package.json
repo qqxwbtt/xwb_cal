@@ -1,0 +1,40 @@
+{
+  "_from": "xwb_cal",
+  "_id": "xwb_cal@0.0.4",
+  "_inBundle": false,
+  "_integrity": "sha512-Tf2YXUFiNFVPbNsdU037sxQmJsbgDw6Pi8sZPGPAeDoWKNE37tt/yVy7Xu1uPaKWqYs/daaIgKtbUl9GAxJ4RA==",
+  "_location": "/xwb_cal",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "xwb_cal",
+    "name": "xwb_cal",
+    "escapedName": "xwb_cal",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/xwb_cal/-/xwb_cal-0.0.4.tgz",
+  "_shasum": "a517d9bd1f199a351350c83e33b373062d8858ed",
+  "_spec": "xwb_cal",
+  "_where": "D:\\example\\test-npm",
+  "author": "",
+  "bin": {
+    "cal": "index.js"
+  },
+  "bundleDependencies": false,
+  "dependencies": {},
+  "deprecated": false,
+  "description": "calculate test",
+  "license": "ISC",
+  "main": "index.js",
+  "name": "xwb_cal",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.0.4"
+}
